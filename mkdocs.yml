@@ -1,14 +1,13 @@
-site_name: Razavn TRancioveanu Paul
+site_name: Documentació Prova IAW
+
 theme:
-name: material
-palette:
-# Mode clar (per defecte)
-- media: "(prefers-color-scheme: light)"
-scheme: default
-primary: indigo
-accent: indigo
-# Mode fosc automàtic
-- media: "(prefers-color-scheme: dark)"
-scheme: slate
-primary: indigo
-accent: indigo
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
